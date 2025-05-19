@@ -1,6 +1,6 @@
 import './solves.css'
 import { Container,Row,Col } from 'react-bootstrap'
-// import icon from '../../assets/icon.png'
+import icon from '../../assets/icon.png'
 import icon1 from '../../assets/icon (1).png'
 import icon2 from '../../assets/icon (2).png'
 import icon3 from '../../assets/icon (3).png'
