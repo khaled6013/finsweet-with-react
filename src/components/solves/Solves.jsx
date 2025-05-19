@@ -1,6 +1,6 @@
 import './solves.css'
 import { Container,Row,Col } from 'react-bootstrap'
-import icon from '../../assets/icon.png'
+// import icon from '../../assets/icon.png'
 import icon1 from '../../assets/icon (1).png'
 import icon2 from '../../assets/icon (2).png'
 import icon3 from '../../assets/icon (3).png'
@@ -22,7 +22,7 @@ const Solves = () => {
             </Col>
          </Row>
          <Row className='top02'>
-           <Solvesreusable pic={icon} title="Uses Client First" ></Solvesreusable>
+           <Solvesreusable pic={icon1} title="Uses Client First" ></Solvesreusable>
            <Solvesreusable pic={icon1} title="Two Free Revision Round"></Solvesreusable>
            <Solvesreusable pic={icon2} title="Template Customization"></Solvesreusable>
            <Solvesreusable pic={icon3} title="24/7 Support"></Solvesreusable>
