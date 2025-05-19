@@ -1,0 +1,49 @@
+#blog-main{
+    padding: 100px 0px;
+}
+.ourBlog h2{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+}
+.blog-item img{
+    width: 100%;
+}
+.blog-item h6{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    padding-top: 40px;
+}
+.blog-item h2{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    padding-top: 15px;
+}
+.blog-item p{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    opacity: 70%;
+}
+.blog-item a{
+     color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-decoration: none;
+    padding-top: 30px;
+}
+.top99{
+    padding-top: 60px;
+}

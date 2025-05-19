@@ -1,0 +1,93 @@
+#footer-main{
+    padding: 100px 0px 0px 0px;
+    background-color: #1C1E53;
+}
+.footer-logo p{
+    color: #fff;;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    opacity: 80%;
+    padding-top: 22px;
+}
+.callus{
+    background-color: #FCD980;
+    padding: 18px 0px 16px 37px;
+}
+.me h4{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+}
+.me p{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 12px;
+    opacity: 80%;
+}
+.us01 h4{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+}
+.us01 p{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    opacity: 80%;
+}
+.talk h1{
+     color:#FFFFFF;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+}
+.fb{
+    color: #FFFFFF;
+}
+.x{
+     color: #FFFFFF;
+     margin-left: 16px;
+}
+.insta{
+    color: #FFFFFF;
+    margin-left: 16px;
+}
+.in{
+    color: #FFFFFF;
+    margin-left: 16px;
+}
+.icon-footer{
+  margin-top: 80px;
+}
+.copy{
+    padding: 25px 0px;
+    background-color: #FFFFFF;
+}
+.fin p{
+     color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+.footer-manu a{
+    display: inline-block;
+    padding: 0px 18px;
+    text-decoration: none;
+    color: #282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}

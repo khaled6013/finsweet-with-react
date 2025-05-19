@@ -1,0 +1,38 @@
+#asked-main{
+    padding: 100px 0px;
+    background-color: #fff;
+}
+.question h2{
+    color:#282938;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+}
+.question a{
+    color:#2405F2;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    text-decoration: none;
+}
+span.how{
+    color: #2405F2;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+h2.owh2{
+     font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    padding-left: 40px !important;
+}
+.accordion {
+   --bs-accordion-border-color: none !important;
+  --bs-accordion-active-bg: none !important;
+  -webkit-tap-highlight-color : none !important;
+}

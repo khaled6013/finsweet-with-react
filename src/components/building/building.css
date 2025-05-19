@@ -1,0 +1,87 @@
+#building-main{
+    background-color: #fff;
+    padding: 100px;
+}
+.send{
+    background-color: #1C1E53;
+    padding: 110px 78px 73px 96px;
+}
+.send h3{
+    color:#FFFFFF;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+}
+.send p{
+    color:#F4F6FC;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+}
+input.name-main{
+    background-color: #1C1E53;
+    border: 1.5px solid #FFFFFF0D;
+    padding: 18px 200px 18px 32px;
+}
+.from input{
+     background-color: #1C1E53;
+    border: 1.5px solid #FFFFFF0D;
+    padding: 18px 200px 18px 32px;
+    margin-top: 16px;
+    color: #F4F6FC;
+}
+.from::placeholder{
+    color: #F4F6FC !important;
+}
+.send-btn a{
+    color:#1B1C2B;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    background-color: #FCD980;
+    padding: 16px 130px;
+    border-radius: 41px;
+    text-decoration: none;
+}
+.send-btn{
+    margin-top: 45px;
+}
+.touch{
+    margin-top: 35px;
+}
+.touch a{
+    color:#FFFFFF;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    text-decoration: none;
+    padding-left: 50px;
+}
+.build-img {
+    position: relative;
+}
+.early{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.early h2{
+    color:#FFFFFF;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 74px;
+    padding: 96px 74px 0px 96px;
+}
+.early p{
+    color:#FFFFFF;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 24px 74px 0px 96px;
+}
